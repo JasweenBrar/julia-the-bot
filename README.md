@@ -36,13 +36,43 @@ NLTK has a module, nltk.chat, which simplifies building these talk bots by provi
 ## 💠 Demo
 
 ```
-Type here
+ Julia :  Hi there, I'm Julia, the chat bot.
+                         Type  quit to leave
 
 
+ Julia :  May I know your good name ?
 
-:)
+ You:  Sophia
+ Julia : Mmmm...
+                 That is a great name
+ Julia : Hey Sophia  would you like to know more about your name?
+                        (y or n)
+
+ You : y
+.... Please wait while I analysis your personality ....
+
+
+ Julia :  People with the name  *  Sophia  * generally have the following personsality 
+
+
+The one girl who truly is herself around you. She doesn't have to pretend to be someone else. You know you can always trust her. Guys love her... but she only loves one. 
+She's one of the smartest people you will ever meet. Gorgeous. Self-confident. Loves her friends. She's probably an AMAZING kisser. Killer body, beautiful eyes, with a smile that will melt your heart.
+
+ Julia : Is my analysis corrected?
+
+ You : You are sweet.
+
+ Julia : Ok!
+
+ Julia : Btw  Sophia  feel free to ask me anything
 ```
 
+```
+You : tell me a joke
+Julia : PUPIL: Would you punish me for something I didn`t do?
+        TEACHER: Of course not.
+        PUPIL: Good, because I haven`t done my homework.
+```
 
 
 
